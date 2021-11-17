@@ -1,0 +1,180 @@
+.pokemon-card {
+  background-color: lightslategrey;
+  height: 300px;
+  width: 225px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 15px;
+
+  margin: 15px 20px;
+}
+
+.pokemon-card-title {
+  font-size: 1.5rem;
+}
+.pokemon-card-picture {
+  width: 75%;
+  min-width: 165.55px;
+  min-height: 96px;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  border: 3px solid lightpink;
+  background-color: lightslategray;
+}
+
+.normal {
+  border-color: lightgrey;
+}
+
+.fire {
+  border-color: mediumvioletred;
+}
+
+.grass {
+  border-color: lightgreen;
+}
+
+.water {
+  border-color: deepskyblue;
+}
+
+.bug {
+  border-color: goldenrod;
+}
+
+.poison {
+  border-color: darkviolet;
+}
+
+.rock {
+  border-color: lightslategrey;
+}
+
+.steel {
+  border-color: lightsteelblue;
+}
+
+.ground {
+  border-color: peru;
+}
+
+.flying {
+  border-color: powderblue;
+}
+
+.psychic {
+  border-color: deeppink;
+}
+
+.dark {
+  border-color: black;
+}
+
+.ghost {
+  border-color: darkslateblue;
+}
+
+.ice {
+  border-color: aliceblue;
+}
+
+.fairy {
+  border-color: pink;
+}
+
+.fighting {
+  border-color: sandybrown;
+}
+
+.dragon {
+  border-color: steelblue;
+}
+
+.electric {
+  border-color: gold;
+}
+
+.-normal {
+  border-right: 3px solid lightgrey;
+  border-bottom: 3px solid lightgrey;
+}
+
+.-fire {
+  border-right: 3px solid mediumvioletred;
+  border-bottom: 3px solid mediumvioletred;
+}
+
+.-grass {
+  border-right: 3px solid lightgreen;
+  border-bottom: 3px solid lightgreen;
+}
+
+.-water {
+  border-right: 3px solid deepskyblue;
+  border-bottom: 3px solid deepskyblue;
+}
+
+.-bug {
+  border-right: 3px solid goldenrod;
+  border-bottom: 3px solid goldenrod;
+}
+
+.-poison {
+  border-right: 3px solid darkviolet;
+  border-bottom: 3px solid darkviolet;
+}
+
+.-rock {
+  border-right: 3px solid lightslategrey;
+  border-bottom: 3px solid lightslategrey;
+}
+.-steel {
+  border-right: 3px solid lightsteelblue;
+  border-bottom: 3px solid lightsteelblue;
+}
+.-ground {
+  border-right: 3px solid peru;
+  border-bottom: 3px solid peru;
+}
+.-flying {
+  border-right: 3px solid powderblue;
+  border-bottom: 3px solid powderblue;
+}
+
+.-psychic {
+  border-right: 3px solid deeppink;
+  border-bottom: 3px solid deeppink;
+}
+.-dark {
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+}
+.-ghost {
+  border-right: 3px solid darkslateblue;
+  border-bottom: 3px solid darkslateblue;
+}
+.-ice {
+  border-right: 3px solid aliceblue;
+  border-bottom: 3px solid aliceblue;
+}
+.-fairy {
+  border-right: 3px solid pink;
+  border-bottom: 3px solid pink;
+}
+
+.-fighting {
+  border-right: 3px solid sandybrown;
+  border-bottom: 3px solid sandybrown;
+}
+.-dragon {
+  border-right: 3px solid steelblue;
+  border-bottom: 3px solid steelblue;
+}
+.-electric {
+  border-right: 3px solid gold;
+  border-bottom: 3px solid gold;
+}

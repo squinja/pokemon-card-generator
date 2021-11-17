@@ -1,0 +1,99 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #02021e;
+}
+
+body {
+  font-family: "Sofia Pro", sans-serif;
+  color: #e5e5e5;
+}
+
+nav {
+  background-color: #383838;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-links {
+  width: 40%;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  justify-content: space-around;
+}
+
+.headers {
+  text-align: center;
+  padding: 3rem 0;
+  color: #383838;
+}
+
+.app {
+  min-height: 100vh;
+  background-color: lightblue;
+  /* display: flex;
+  justify-content: space-around;
+  align-items: center; */
+}
+
+.red {
+  background-color: lightcoral;
+}
+
+/* .pokemon-cards-container {
+} */
+.database-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  justify-content: center;
+
+  /* background-color: mediumaquamarine; */
+}
+
+/* Selectors */
+/* resetting across all browsers */
+select {
+  cursor: pointer;
+  appearance: none;
+  background-color: transparent;
+  border: none;
+  padding: 0 1em 0 0;
+  margin: 0;
+  width: 100%;
+  font-family: inherit;
+  font-size: inherit;
+  outline: none;
+}
+
+:root {
+  --select-border: #777;
+  --select-focus: blue;
+  --select-arrow: var(--select-border);
+}
+
+.select {
+  width: 100%;
+  min-width: 3rem;
+  max-width: 7rem;
+  border: 1px solid var(--select-border);
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  background-color: #fff;
+  background-image: linear-gradient(to top, #f9f9f9, #fff 33%);
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+
+.select::after {
+  content: "";
+  width: 0.8rem;
+  height: 0.5rem;
+  background-color: var(--select-arrow);
+  clip-path: polygon(100% 0%, 0% 0%, 50% 100%);
+  z-index: 0;
+}
