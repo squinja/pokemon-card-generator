@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.2bfc2968.chunk.css",
-    "main.js": "/static/js/main.f5970019.chunk.js",
-    "main.js.map": "/static/js/main.f5970019.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a5a7fee5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a5a7fee5.js.map",
-    "static/js/2.44c47087.chunk.js": "/static/js/2.44c47087.chunk.js",
-    "static/js/2.44c47087.chunk.js.map": "/static/js/2.44c47087.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2bfc2968.chunk.css.map": "/static/css/main.2bfc2968.chunk.css.map",
-    "static/js/2.44c47087.chunk.js.LICENSE.txt": "/static/js/2.44c47087.chunk.js.LICENSE.txt",
-    "static/media/main.css": "/static/media/water-bg.83cf8230.jpg",
-    "static/media/pokeball-icon.bed19d90.png": "/static/media/pokeball-icon.bed19d90.png"
+    "main.css": "/squinja.github.io/pokemon-database/static/css/main.474873d5.chunk.css",
+    "main.js": "/squinja.github.io/pokemon-database/static/js/main.f5970019.chunk.js",
+    "main.js.map": "/squinja.github.io/pokemon-database/static/js/main.f5970019.chunk.js.map",
+    "runtime-main.js": "/squinja.github.io/pokemon-database/static/js/runtime-main.89204a10.js",
+    "runtime-main.js.map": "/squinja.github.io/pokemon-database/static/js/runtime-main.89204a10.js.map",
+    "static/js/2.d74bf3c9.chunk.js": "/squinja.github.io/pokemon-database/static/js/2.d74bf3c9.chunk.js",
+    "static/js/2.d74bf3c9.chunk.js.map": "/squinja.github.io/pokemon-database/static/js/2.d74bf3c9.chunk.js.map",
+    "index.html": "/squinja.github.io/pokemon-database/index.html",
+    "static/css/main.474873d5.chunk.css.map": "/squinja.github.io/pokemon-database/static/css/main.474873d5.chunk.css.map",
+    "static/js/2.d74bf3c9.chunk.js.LICENSE.txt": "/squinja.github.io/pokemon-database/static/js/2.d74bf3c9.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/squinja.github.io/pokemon-database/static/media/water-bg.83cf8230.jpg",
+    "static/media/pokeball-icon.bed19d90.png": "/squinja.github.io/pokemon-database/static/media/pokeball-icon.bed19d90.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5a7fee5.js",
-    "static/js/2.44c47087.chunk.js",
-    "static/css/main.2bfc2968.chunk.css",
+    "static/js/runtime-main.89204a10.js",
+    "static/js/2.d74bf3c9.chunk.js",
+    "static/css/main.474873d5.chunk.css",
     "static/js/main.f5970019.chunk.js"
   ]
 }
